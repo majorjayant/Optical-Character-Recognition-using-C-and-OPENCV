@@ -1,0 +1,3 @@
+﻿  TrainAndTest.cpp
+c:\users\admin\source\repos\trainandtest\trainandtest.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TrainAndTest.vcxproj -> C:\Users\admin\source\repos\TrainAndTest\x64\Debug\TrainAndTest.exe
